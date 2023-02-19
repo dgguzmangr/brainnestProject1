@@ -74,4 +74,11 @@ An empty str "used_letters" is created that stores the letters that the player e
 9) With an if conditional it is checked that the letter that the player enters is in "used_letters". If so, a message is printed informing that the letter has already been used. If the letter has not been entered it is added to "used_letters".
 10) The "guess" list is updated with the letter entered with the "updateguesslist" method. This method loops through the word and replaces the underscores if applicable.
 11) With an if conditional, if the player enters the letters correctly, a message is printed on the screen. Otherwise the message "Sorry! out of chances.Word is: " and the word are printed.
+
+
+Carl Archemetre	                cvrlix@gmail.com
+David Guillermo Guzmán Garzón	dgguzmangr@gmail.com
+Sony Johnson Kunnathuparambil	sonyjhnsn@gmail.com
+
+
 """
